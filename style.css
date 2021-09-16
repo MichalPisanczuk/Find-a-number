@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+}
+
+div.js-game {
+    font-size: 14px;
+    margin: 20px auto;
+    width: 50%;
+    text-align: center;
+}
+
+div.js-result {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+}
+button {
+    background-color: white;
+    border: 1px solid #000;
+    margin: 20px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+}
+
+input {
+    padding: 10px 20px;
+    width: 120px;
+}
+
+.hidden {
+    display: none;
+}
